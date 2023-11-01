@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.configuration-controls-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #475569;
+  justify-content: center;
+  padding-left: 50px;
+}
+.layout-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.label-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 12px;
+}
+.checkbox-container {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 10px;
+}
